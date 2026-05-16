@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5YLM8YLFB2.com.mysonosproject",
+        "paths": ["/sonosutility/callback*", "/callback*"]
+      }
+    ]
+  }
+}
